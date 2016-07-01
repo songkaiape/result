@@ -1,0 +1,924 @@
+arrays/var-int.js type="Array" n="25": 52.51832
+arrays/var-int.js type="Buffer" n="25": 84.27743
+arrays/var-int.js type="Int8Array" n="25": 84.75176
+arrays/var-int.js type="Uint8Array" n="25": 85.03355
+arrays/var-int.js type="Int16Array" n="25": 83.09032
+arrays/var-int.js type="Uint16Array" n="25": 81.59281
+arrays/var-int.js type="Int32Array" n="25": 76.27418
+arrays/var-int.js type="Uint32Array" n="25": 77.52528
+arrays/var-int.js type="Float32Array" n="25": 60.28669
+arrays/var-int.js type="Float64Array" n="25": 55.23740
+
+arrays/zero-float.js type="Array" n="25": 81.14041
+arrays/zero-float.js type="Buffer" n="25": 96.12056
+arrays/zero-float.js type="Int8Array" n="25": 96.00827
+arrays/zero-float.js type="Uint8Array" n="25": 95.14741
+arrays/zero-float.js type="Int16Array" n="25": 94.27576
+arrays/zero-float.js type="Uint16Array" n="25": 93.83004
+arrays/zero-float.js type="Int32Array" n="25": 88.57757
+arrays/zero-float.js type="Uint32Array" n="25": 89.45734
+arrays/zero-float.js type="Float32Array" n="25": 79.17029
+arrays/zero-float.js type="Float64Array" n="25": 84.15858
+
+arrays/zero-int.js type="Array" n="25": 56.90477
+arrays/zero-int.js type="Buffer" n="25": 90.91064
+arrays/zero-int.js type="Int8Array" n="25": 90.64040
+arrays/zero-int.js type="Uint8Array" n="25": 94.38983
+arrays/zero-int.js type="Int16Array" n="25": 91.69992
+arrays/zero-int.js type="Uint16Array" n="25": 91.08042
+arrays/zero-int.js type="Int32Array" n="25": 82.81326
+arrays/zero-int.js type="Uint32Array" n="25": 84.16443
+arrays/zero-int.js type="Float32Array" n="25": 76.31677
+arrays/zero-int.js type="Float64Array" n="25": 62.93941
+
+assert/deepequal-prims-and-objs-big-array.js prim="null" n="25": 5.06393
+assert/deepequal-prims-and-objs-big-array.js prim="undefined" n="25": 5.34427
+assert/deepequal-prims-and-objs-big-array.js prim="string" n="25": 5.76158
+assert/deepequal-prims-and-objs-big-array.js prim="number" n="25": 5.71715
+assert/deepequal-prims-and-objs-big-array.js prim="boolean" n="25": 5.70928
+assert/deepequal-prims-and-objs-big-array.js prim="object" n="25": 5.71292
+assert/deepequal-prims-and-objs-big-array.js prim="array" n="25": 5.64372
+assert/deepequal-prims-and-objs-big-array.js prim="new-array" n="25": 5.66170
+
+assert/deepequal-prims-and-objs-big-loop.js prim="null" n="100000": 108018.86176
+assert/deepequal-prims-and-objs-big-loop.js prim="undefined" n="100000": 105967.27351
+assert/deepequal-prims-and-objs-big-loop.js prim="string" n="100000": 105671.48575
+assert/deepequal-prims-and-objs-big-loop.js prim="number" n="100000": 106533.82007
+assert/deepequal-prims-and-objs-big-loop.js prim="boolean" n="100000": 108531.47814
+assert/deepequal-prims-and-objs-big-loop.js prim="object" n="100000": 103616.10884
+assert/deepequal-prims-and-objs-big-loop.js prim="array" n="100000": 99771.09876
+assert/deepequal-prims-and-objs-big-loop.js prim="new-array" n="100000": 100176.72758
+
+assert/deepequal-typedarrays.js type="Int8Array" n="1": 809.08178
+assert/deepequal-typedarrays.js type="Uint8Array" n="1": 916.89956
+assert/deepequal-typedarrays.js type="Int16Array" n="1": 694.41985
+assert/deepequal-typedarrays.js type="Uint16Array" n="1": 677.64818
+assert/deepequal-typedarrays.js type="Int32Array" n="1": 544.29559
+assert/deepequal-typedarrays.js type="Uint32Array" n="1": 630.50391
+assert/deepequal-typedarrays.js type="Float32Array" n="1": 0.40688
+assert/deepequal-typedarrays.js type="Float64Array" n="1": 0.40080
+assert/deepequal-typedarrays.js type="Uint8ClampedArray" n="1": 809.70021
+
+buffers/buffer-base64-decode.js : 16.01872
+
+buffers/buffer-base64-encode.js : 17.52883
+
+buffers/buffer-bytelength.js encoding="utf8" len="1" n="5000000": 10903819.99458
+buffers/buffer-bytelength.js encoding="utf8" len="2" n="5000000": 9281062.41703
+buffers/buffer-bytelength.js encoding="utf8" len="4" n="5000000": 6015325.01255
+buffers/buffer-bytelength.js encoding="utf8" len="16" n="5000000": 2056312.21784
+buffers/buffer-bytelength.js encoding="utf8" len="64" n="5000000": 686751.30448
+buffers/buffer-bytelength.js encoding="utf8" len="256" n="5000000": 172606.63157
+buffers/buffer-bytelength.js encoding="base64" len="1" n="5000000": 12237259.76133
+buffers/buffer-bytelength.js encoding="base64" len="2" n="5000000": 12457379.28795
+buffers/buffer-bytelength.js encoding="base64" len="4" n="5000000": 11416357.49173
+buffers/buffer-bytelength.js encoding="base64" len="16" n="5000000": 11544799.42909
+buffers/buffer-bytelength.js encoding="base64" len="64" n="5000000": 12062080.17824
+buffers/buffer-bytelength.js encoding="base64" len="256" n="5000000": 11717289.40326
+
+buffers/buffer-compare-instance-method.js size="16" millions="1": 3.68609
+buffers/buffer-compare-instance-method.js size="512" millions="1": 3.06636
+buffers/buffer-compare-instance-method.js size="1024" millions="1": 2.98837
+buffers/buffer-compare-instance-method.js size="4096" millions="1": 2.34504
+buffers/buffer-compare-instance-method.js size="16386" millions="1": 0.83942
+
+buffers/buffer-compare-offset.js method="offset" size="16" millions="1": 4.88517
+buffers/buffer-compare-offset.js method="offset" size="512" millions="1": 4.99588
+buffers/buffer-compare-offset.js method="offset" size="1024" millions="1": 4.95904
+buffers/buffer-compare-offset.js method="offset" size="4096" millions="1": 4.94099
+buffers/buffer-compare-offset.js method="offset" size="16386" millions="1": 4.82435
+buffers/buffer-compare-offset.js method="slice" size="16" millions="1": 1.95068
+buffers/buffer-compare-offset.js method="slice" size="512" millions="1": 1.81111
+buffers/buffer-compare-offset.js method="slice" size="1024" millions="1": 1.96324
+buffers/buffer-compare-offset.js method="slice" size="4096" millions="1": 2.04500
+buffers/buffer-compare-offset.js method="slice" size="16386" millions="1": 2.00116
+
+buffers/buffer-compare.js size="16" millions="1": 10.99546
+buffers/buffer-compare.js size="512" millions="1": 8.64317
+buffers/buffer-compare.js size="1024" millions="1": 7.71996
+buffers/buffer-compare.js size="4096" millions="1": 4.37400
+buffers/buffer-compare.js size="16386" millions="1": 1.18253
+
+buffers/buffer-concat.js pieces="1" pieceSize="1" withTotalLength="0" n="1024": 2863.98495
+buffers/buffer-concat.js pieces="1" pieceSize="1" withTotalLength="1" n="1024": 2791.06486
+buffers/buffer-concat.js pieces="1" pieceSize="16" withTotalLength="0" n="1024": 2774.18692
+buffers/buffer-concat.js pieces="1" pieceSize="16" withTotalLength="1" n="1024": 2620.29330
+buffers/buffer-concat.js pieces="1" pieceSize="256" withTotalLength="0" n="1024": 2336.34015
+buffers/buffer-concat.js pieces="1" pieceSize="256" withTotalLength="1" n="1024": 2395.09494
+buffers/buffer-concat.js pieces="4" pieceSize="1" withTotalLength="0" n="1024": 1322.86366
+buffers/buffer-concat.js pieces="4" pieceSize="1" withTotalLength="1" n="1024": 1433.81266
+buffers/buffer-concat.js pieces="4" pieceSize="16" withTotalLength="0" n="1024": 1461.92469
+buffers/buffer-concat.js pieces="4" pieceSize="16" withTotalLength="1" n="1024": 1359.11521
+buffers/buffer-concat.js pieces="4" pieceSize="256" withTotalLength="0" n="1024": 1072.28946
+buffers/buffer-concat.js pieces="4" pieceSize="256" withTotalLength="1" n="1024": 1051.83152
+buffers/buffer-concat.js pieces="16" pieceSize="1" withTotalLength="0" n="1024": 532.80318
+buffers/buffer-concat.js pieces="16" pieceSize="1" withTotalLength="1" n="1024": 552.33623
+buffers/buffer-concat.js pieces="16" pieceSize="16" withTotalLength="0" n="1024": 503.73176
+buffers/buffer-concat.js pieces="16" pieceSize="16" withTotalLength="1" n="1024": 518.61549
+buffers/buffer-concat.js pieces="16" pieceSize="256" withTotalLength="0" n="1024": 256.76421
+buffers/buffer-concat.js pieces="16" pieceSize="256" withTotalLength="1" n="1024": 249.27755
+
+buffers/buffer-creation.js type="fast-alloc" len="10" n="1024": 1515.63613
+buffers/buffer-creation.js type="fast-alloc" len="1024" n="1024": 965.50602
+buffers/buffer-creation.js type="fast-alloc" len="2048" n="1024": 470.92966
+buffers/buffer-creation.js type="fast-alloc" len="4096" n="1024": 421.48081
+buffers/buffer-creation.js type="fast-alloc" len="8192" n="1024": 335.03232
+buffers/buffer-creation.js type="fast-alloc-fill" len="10" n="1024": 1268.02160
+buffers/buffer-creation.js type="fast-alloc-fill" len="1024" n="1024": 859.09839
+buffers/buffer-creation.js type="fast-alloc-fill" len="2048" n="1024": 469.19853
+buffers/buffer-creation.js type="fast-alloc-fill" len="4096" n="1024": 421.22351
+buffers/buffer-creation.js type="fast-alloc-fill" len="8192" n="1024": 334.49588
+buffers/buffer-creation.js type="fast-allocUnsafe" len="10" n="1024": 5265.29771
+buffers/buffer-creation.js type="fast-allocUnsafe" len="1024" n="1024": 3033.28885
+buffers/buffer-creation.js type="fast-allocUnsafe" len="2048" n="1024": 1272.97285
+buffers/buffer-creation.js type="fast-allocUnsafe" len="4096" n="1024": 623.77425
+buffers/buffer-creation.js type="fast-allocUnsafe" len="8192" n="1024": 567.79909
+buffers/buffer-creation.js type="slow-allocUnsafe" len="10" n="1024": 1470.47724
+buffers/buffer-creation.js type="slow-allocUnsafe" len="1024" n="1024": 1130.29778
+buffers/buffer-creation.js type="slow-allocUnsafe" len="2048" n="1024": 660.46404
+buffers/buffer-creation.js type="slow-allocUnsafe" len="4096" n="1024": 602.30666
+buffers/buffer-creation.js type="slow-allocUnsafe" len="8192" n="1024": 622.93010
+buffers/buffer-creation.js type="slow" len="10" n="1024": 1562.41801
+buffers/buffer-creation.js type="slow" len="1024" n="1024": 1213.14175
+buffers/buffer-creation.js type="slow" len="2048" n="1024": 637.97524
+buffers/buffer-creation.js type="slow" len="4096" n="1024": 572.01837
+buffers/buffer-creation.js type="slow" len="8192" n="1024": 499.37139
+buffers/buffer-creation.js type="buffer()" len="10" n="1024": 3620.01087
+buffers/buffer-creation.js type="buffer()" len="1024" n="1024": 1898.03517
+buffers/buffer-creation.js type="buffer()" len="2048" n="1024": 1092.58067
+buffers/buffer-creation.js type="buffer()" len="4096" n="1024": 512.13520
+buffers/buffer-creation.js type="buffer()" len="8192" n="1024": 518.14962
+
+buffers/buffer-indexof.js search="@" encoding="undefined" type="buffer" iter="1": 3496482.46871
+buffers/buffer-indexof.js search="@" encoding="undefined" type="string" iter="1": 2404414.89045
+buffers/buffer-indexof.js search="@" encoding="utf8" type="buffer" iter="1": 2693299.59311
+buffers/buffer-indexof.js search="@" encoding="utf8" type="string" iter="1": 1805244.90801
+buffers/buffer-indexof.js search="@" encoding="ucs2" type="buffer" iter="1": 2141043.41910
+buffers/buffer-indexof.js search="@" encoding="ucs2" type="string" iter="1": 1554251.51436
+buffers/buffer-indexof.js search="@" encoding="binary" type="buffer" iter="1": 2509571.56870
+buffers/buffer-indexof.js search="@" encoding="binary" type="string" iter="1": 2045425.21220
+buffers/buffer-indexof.js search="SQ" encoding="undefined" type="buffer" iter="1": 698485.64958
+buffers/buffer-indexof.js search="SQ" encoding="undefined" type="string" iter="1": 631258.30669
+buffers/buffer-indexof.js search="SQ" encoding="utf8" type="buffer" iter="1": 638684.53468
+buffers/buffer-indexof.js search="SQ" encoding="utf8" type="string" iter="1": 561939.40258
+buffers/buffer-indexof.js search="SQ" encoding="ucs2" type="buffer" iter="1": 397108.25609
+buffers/buffer-indexof.js search="SQ" encoding="ucs2" type="string" iter="1": 370815.64030
+buffers/buffer-indexof.js search="SQ" encoding="binary" type="buffer" iter="1": 637893.62015
+buffers/buffer-indexof.js search="SQ" encoding="binary" type="string" iter="1": 596402.52146
+buffers/buffer-indexof.js search="10x" encoding="undefined" type="buffer" iter="1": 3008951.23877
+buffers/buffer-indexof.js search="10x" encoding="undefined" type="string" iter="1": 2134087.08151
+buffers/buffer-indexof.js search="10x" encoding="utf8" type="buffer" iter="1": 2382417.62452
+buffers/buffer-indexof.js search="10x" encoding="utf8" type="string" iter="1": 1624891.94062
+buffers/buffer-indexof.js search="10x" encoding="ucs2" type="buffer" iter="1": 2077442.22654
+buffers/buffer-indexof.js search="10x" encoding="ucs2" type="string" iter="1": 1475784.82089
+buffers/buffer-indexof.js search="10x" encoding="binary" type="buffer" iter="1": 2266270.92439
+buffers/buffer-indexof.js search="10x" encoding="binary" type="string" iter="1": 1824600.16442
+buffers/buffer-indexof.js search="--l" encoding="undefined" type="buffer" iter="1": 126449.27129
+buffers/buffer-indexof.js search="--l" encoding="undefined" type="string" iter="1": 124678.44510
+buffers/buffer-indexof.js search="--l" encoding="utf8" type="buffer" iter="1": 111216.56196
+buffers/buffer-indexof.js search="--l" encoding="utf8" type="string" iter="1": 116981.06115
+buffers/buffer-indexof.js search="--l" encoding="ucs2" type="buffer" iter="1": 76402.18265
+buffers/buffer-indexof.js search="--l" encoding="ucs2" type="string" iter="1": 74887.56723
+buffers/buffer-indexof.js search="--l" encoding="binary" type="buffer" iter="1": 122046.72077
+buffers/buffer-indexof.js search="--l" encoding="binary" type="string" iter="1": 121183.79711
+buffers/buffer-indexof.js search="Alice" encoding="undefined" type="buffer" iter="1": 5707618.88927
+buffers/buffer-indexof.js search="Alice" encoding="undefined" type="string" iter="1": 3057188.59530
+buffers/buffer-indexof.js search="Alice" encoding="utf8" type="buffer" iter="1": 3739374.42734
+buffers/buffer-indexof.js search="Alice" encoding="utf8" type="string" iter="1": 2123956.83984
+buffers/buffer-indexof.js search="Alice" encoding="ucs2" type="buffer" iter="1": 3416512.66166
+buffers/buffer-indexof.js search="Alice" encoding="ucs2" type="string" iter="1": 2176399.67473
+buffers/buffer-indexof.js search="Alice" encoding="binary" type="buffer" iter="1": 3448616.91839
+buffers/buffer-indexof.js search="Alice" encoding="binary" type="string" iter="1": 2485889.22271
+buffers/buffer-indexof.js search="Gryphon" encoding="undefined" type="buffer" iter="1": 213991.70787
+buffers/buffer-indexof.js search="Gryphon" encoding="undefined" type="string" iter="1": 188691.84171
+buffers/buffer-indexof.js search="Gryphon" encoding="utf8" type="buffer" iter="1": 208425.82403
+buffers/buffer-indexof.js search="Gryphon" encoding="utf8" type="string" iter="1": 197123.96607
+buffers/buffer-indexof.js search="Gryphon" encoding="ucs2" type="buffer" iter="1": 101203.35372
+buffers/buffer-indexof.js search="Gryphon" encoding="ucs2" type="string" iter="1": 90488.92385
+buffers/buffer-indexof.js search="Gryphon" encoding="binary" type="buffer" iter="1": 208905.66478
+buffers/buffer-indexof.js search="Gryphon" encoding="binary" type="string" iter="1": 189162.18526
+buffers/buffer-indexof.js search="Panther" encoding="undefined" type="buffer" iter="1": 159574.78121
+buffers/buffer-indexof.js search="Panther" encoding="undefined" type="string" iter="1": 159147.76727
+buffers/buffer-indexof.js search="Panther" encoding="utf8" type="buffer" iter="1": 155685.09760
+buffers/buffer-indexof.js search="Panther" encoding="utf8" type="string" iter="1": 145543.57006
+buffers/buffer-indexof.js search="Panther" encoding="ucs2" type="buffer" iter="1": 71784.78563
+buffers/buffer-indexof.js search="Panther" encoding="ucs2" type="string" iter="1": 74414.20747
+buffers/buffer-indexof.js search="Panther" encoding="binary" type="buffer" iter="1": 164459.62454
+buffers/buffer-indexof.js search="Panther" encoding="binary" type="string" iter="1": 147119.69625
+buffers/buffer-indexof.js search="Ou est ma chatte?" encoding="undefined" type="buffer" iter="1": 76855.03657
+buffers/buffer-indexof.js search="Ou est ma chatte?" encoding="undefined" type="string" iter="1": 76134.94078
+buffers/buffer-indexof.js search="Ou est ma chatte?" encoding="utf8" type="buffer" iter="1": 76531.56920
+buffers/buffer-indexof.js search="Ou est ma chatte?" encoding="utf8" type="string" iter="1": 73133.50943
+buffers/buffer-indexof.js search="Ou est ma chatte?" encoding="ucs2" type="buffer" iter="1": 68041.74437
+buffers/buffer-indexof.js search="Ou est ma chatte?" encoding="ucs2" type="string" iter="1": 70839.33721
+buffers/buffer-indexof.js search="Ou est ma chatte?" encoding="binary" type="buffer" iter="1": 79307.64357
+buffers/buffer-indexof.js search="Ou est ma chatte?" encoding="binary" type="string" iter="1": 77933.80828
+buffers/buffer-indexof.js search="found it very" encoding="undefined" type="buffer" iter="1": 13942.61273
+buffers/buffer-indexof.js search="found it very" encoding="undefined" type="string" iter="1": 12983.52586
+buffers/buffer-indexof.js search="found it very" encoding="utf8" type="buffer" iter="1": 13380.77933
+buffers/buffer-indexof.js search="found it very" encoding="utf8" type="string" iter="1": 13140.86624
+buffers/buffer-indexof.js search="found it very" encoding="ucs2" type="buffer" iter="1": 12673.32931
+buffers/buffer-indexof.js search="found it very" encoding="ucs2" type="string" iter="1": 12093.38510
+buffers/buffer-indexof.js search="found it very" encoding="binary" type="buffer" iter="1": 13478.70168
+buffers/buffer-indexof.js search="found it very" encoding="binary" type="string" iter="1": 13391.45561
+buffers/buffer-indexof.js search="among mad people" encoding="undefined" type="buffer" iter="1": 22042.57695
+buffers/buffer-indexof.js search="among mad people" encoding="undefined" type="string" iter="1": 22646.30867
+buffers/buffer-indexof.js search="among mad people" encoding="utf8" type="buffer" iter="1": 22894.95127
+buffers/buffer-indexof.js search="among mad people" encoding="utf8" type="string" iter="1": 22473.25296
+buffers/buffer-indexof.js search="among mad people" encoding="ucs2" type="buffer" iter="1": 20474.60792
+buffers/buffer-indexof.js search="among mad people" encoding="ucs2" type="string" iter="1": 20171.36522
+buffers/buffer-indexof.js search="among mad people" encoding="binary" type="buffer" iter="1": 22880.25009
+buffers/buffer-indexof.js search="among mad people" encoding="binary" type="string" iter="1": 22795.76347
+buffers/buffer-indexof.js search="neighbouring pool" encoding="undefined" type="buffer" iter="1": 12733.36485
+buffers/buffer-indexof.js search="neighbouring pool" encoding="undefined" type="string" iter="1": 12683.46982
+buffers/buffer-indexof.js search="neighbouring pool" encoding="utf8" type="buffer" iter="1": 12597.69845
+buffers/buffer-indexof.js search="neighbouring pool" encoding="utf8" type="string" iter="1": 12586.72089
+buffers/buffer-indexof.js search="neighbouring pool" encoding="ucs2" type="buffer" iter="1": 11324.01076
+buffers/buffer-indexof.js search="neighbouring pool" encoding="ucs2" type="string" iter="1": 10905.65189
+buffers/buffer-indexof.js search="neighbouring pool" encoding="binary" type="buffer" iter="1": 12535.88611
+buffers/buffer-indexof.js search="neighbouring pool" encoding="binary" type="string" iter="1": 13086.71350
+buffers/buffer-indexof.js search="Soo--oop" encoding="undefined" type="buffer" iter="1": 10461.07408
+buffers/buffer-indexof.js search="Soo--oop" encoding="undefined" type="string" iter="1": 10102.59267
+buffers/buffer-indexof.js search="Soo--oop" encoding="utf8" type="buffer" iter="1": 9951.15189
+buffers/buffer-indexof.js search="Soo--oop" encoding="utf8" type="string" iter="1": 10313.60468
+buffers/buffer-indexof.js search="Soo--oop" encoding="ucs2" type="buffer" iter="1": 9852.41179
+buffers/buffer-indexof.js search="Soo--oop" encoding="ucs2" type="string" iter="1": 9798.82297
+buffers/buffer-indexof.js search="Soo--oop" encoding="binary" type="buffer" iter="1": 10169.69153
+buffers/buffer-indexof.js search="Soo--oop" encoding="binary" type="string" iter="1": 10114.53601
+buffers/buffer-indexof.js search="aaaaaaaaaaaaaaaaa" encoding="undefined" type="buffer" iter="1": 17066.25975
+buffers/buffer-indexof.js search="aaaaaaaaaaaaaaaaa" encoding="undefined" type="string" iter="1": 16719.57141
+buffers/buffer-indexof.js search="aaaaaaaaaaaaaaaaa" encoding="utf8" type="buffer" iter="1": 17009.00815
+buffers/buffer-indexof.js search="aaaaaaaaaaaaaaaaa" encoding="utf8" type="string" iter="1": 17193.50532
+buffers/buffer-indexof.js search="aaaaaaaaaaaaaaaaa" encoding="ucs2" type="buffer" iter="1": 15559.83192
+buffers/buffer-indexof.js search="aaaaaaaaaaaaaaaaa" encoding="ucs2" type="string" iter="1": 15515.91485
+buffers/buffer-indexof.js search="aaaaaaaaaaaaaaaaa" encoding="binary" type="buffer" iter="1": 17025.29372
+buffers/buffer-indexof.js search="aaaaaaaaaaaaaaaaa" encoding="binary" type="string" iter="1": 17104.52134
+buffers/buffer-indexof.js search="venture to go near the house till she had brought herself down to" encoding="undefined" type="buffer" iter="1": 54009.61313
+buffers/buffer-indexof.js search="venture to go near the house till she had brought herself down to" encoding="undefined" type="string" iter="1": 52924.91036
+buffers/buffer-indexof.js search="venture to go near the house till she had brought herself down to" encoding="utf8" type="buffer" iter="1": 54274.54787
+buffers/buffer-indexof.js search="venture to go near the house till she had brought herself down to" encoding="utf8" type="string" iter="1": 53144.39410
+buffers/buffer-indexof.js search="venture to go near the house till she had brought herself down to" encoding="ucs2" type="buffer" iter="1": 46181.28041
+buffers/buffer-indexof.js search="venture to go near the house till she had brought herself down to" encoding="ucs2" type="string" iter="1": 44318.62079
+buffers/buffer-indexof.js search="venture to go near the house till she had brought herself down to" encoding="binary" type="buffer" iter="1": 54034.67211
+buffers/buffer-indexof.js search="venture to go near the house till she had brought herself down to" encoding="binary" type="string" iter="1": 53126.13808
+buffers/buffer-indexof.js search="</i> to the Caterpillar" encoding="undefined" type="buffer" iter="1": 19480.79379
+buffers/buffer-indexof.js search="</i> to the Caterpillar" encoding="undefined" type="string" iter="1": 19283.25017
+buffers/buffer-indexof.js search="</i> to the Caterpillar" encoding="utf8" type="buffer" iter="1": 19393.32198
+buffers/buffer-indexof.js search="</i> to the Caterpillar" encoding="utf8" type="string" iter="1": 19413.51112
+buffers/buffer-indexof.js search="</i> to the Caterpillar" encoding="ucs2" type="buffer" iter="1": 17196.93717
+buffers/buffer-indexof.js search="</i> to the Caterpillar" encoding="ucs2" type="string" iter="1": 16289.33527
+buffers/buffer-indexof.js search="</i> to the Caterpillar" encoding="binary" type="buffer" iter="1": 19190.77138
+buffers/buffer-indexof.js search="</i> to the Caterpillar" encoding="binary" type="string" iter="1": 19140.09256
+
+
+buffers/buffer-read.js noAssert="false" buffer="fast" type="UInt8" millions="1": 153.77882
+buffers/buffer-read.js noAssert="false" buffer="fast" type="UInt16LE" millions="1": 122.85779
+buffers/buffer-read.js noAssert="false" buffer="fast" type="UInt16BE" millions="1": 113.42291
+buffers/buffer-read.js noAssert="false" buffer="fast" type="UInt32LE" millions="1": 116.85230
+buffers/buffer-read.js noAssert="false" buffer="fast" type="UInt32BE" millions="1": 117.36074
+buffers/buffer-read.js noAssert="false" buffer="fast" type="Int8" millions="1": 124.22825
+buffers/buffer-read.js noAssert="false" buffer="fast" type="Int16LE" millions="1": 115.76066
+buffers/buffer-read.js noAssert="false" buffer="fast" type="Int16BE" millions="1": 100.39897
+buffers/buffer-read.js noAssert="false" buffer="fast" type="Int32LE" millions="1": 115.51661
+buffers/buffer-read.js noAssert="false" buffer="fast" type="Int32BE" millions="1": 117.37676
+buffers/buffer-read.js noAssert="false" buffer="fast" type="FloatLE" millions="1": 18.60462
+buffers/buffer-read.js noAssert="false" buffer="fast" type="FloatBE" millions="1": 17.34979
+buffers/buffer-read.js noAssert="false" buffer="fast" type="DoubleLE" millions="1": 16.64203
+buffers/buffer-read.js noAssert="false" buffer="fast" type="DoubleBE" millions="1": 15.01024
+buffers/buffer-read.js noAssert="false" buffer="slow" type="UInt8" millions="1": 150.90921
+buffers/buffer-read.js noAssert="false" buffer="slow" type="UInt16LE" millions="1": 122.94998
+buffers/buffer-read.js noAssert="false" buffer="slow" type="UInt16BE" millions="1": 120.64835
+buffers/buffer-read.js noAssert="false" buffer="slow" type="UInt32LE" millions="1": 116.99435
+buffers/buffer-read.js noAssert="false" buffer="slow" type="UInt32BE" millions="1": 112.64382
+buffers/buffer-read.js noAssert="false" buffer="slow" type="Int8" millions="1": 118.45969
+buffers/buffer-read.js noAssert="false" buffer="slow" type="Int16LE" millions="1": 113.42188
+buffers/buffer-read.js noAssert="false" buffer="slow" type="Int16BE" millions="1": 116.13746
+buffers/buffer-read.js noAssert="false" buffer="slow" type="Int32LE" millions="1": 122.33881
+buffers/buffer-read.js noAssert="false" buffer="slow" type="Int32BE" millions="1": 118.82931
+buffers/buffer-read.js noAssert="false" buffer="slow" type="FloatLE" millions="1": 18.73193
+buffers/buffer-read.js noAssert="false" buffer="slow" type="FloatBE" millions="1": 17.17695
+buffers/buffer-read.js noAssert="false" buffer="slow" type="DoubleLE" millions="1": 18.60518
+buffers/buffer-read.js noAssert="false" buffer="slow" type="DoubleBE" millions="1": 16.49337
+buffers/buffer-read.js noAssert="true" buffer="fast" type="UInt8" millions="1": 477.04916
+buffers/buffer-read.js noAssert="true" buffer="fast" type="UInt16LE" millions="1": 399.62723
+buffers/buffer-read.js noAssert="true" buffer="fast" type="UInt16BE" millions="1": 407.44002
+buffers/buffer-read.js noAssert="true" buffer="fast" type="UInt32LE" millions="1": 393.84096
+buffers/buffer-read.js noAssert="true" buffer="fast" type="UInt32BE" millions="1": 345.56149
+buffers/buffer-read.js noAssert="true" buffer="fast" type="Int8" millions="1": 366.56596
+buffers/buffer-read.js noAssert="true" buffer="fast" type="Int16LE" millions="1": 305.99109
+buffers/buffer-read.js noAssert="true" buffer="fast" type="Int16BE" millions="1": 326.16520
+buffers/buffer-read.js noAssert="true" buffer="fast" type="Int32LE" millions="1": 384.47505
+buffers/buffer-read.js noAssert="true" buffer="fast" type="Int32BE" millions="1": 386.78031
+buffers/buffer-read.js noAssert="true" buffer="fast" type="FloatLE" millions="1": 20.40526
+buffers/buffer-read.js noAssert="true" buffer="fast" type="FloatBE" millions="1": 18.42842
+buffers/buffer-read.js noAssert="true" buffer="fast" type="DoubleLE" millions="1": 19.92335
+buffers/buffer-read.js noAssert="true" buffer="fast" type="DoubleBE" millions="1": 16.00390
+buffers/buffer-read.js noAssert="true" buffer="slow" type="UInt8" millions="1": 514.42870
+buffers/buffer-read.js noAssert="true" buffer="slow" type="UInt16LE" millions="1": 413.85709
+buffers/buffer-read.js noAssert="true" buffer="slow" type="UInt16BE" millions="1": 411.81904
+buffers/buffer-read.js noAssert="true" buffer="slow" type="UInt32LE" millions="1": 349.02211
+buffers/buffer-read.js noAssert="true" buffer="slow" type="UInt32BE" millions="1": 347.79838
+buffers/buffer-read.js noAssert="true" buffer="slow" type="Int8" millions="1": 386.35189
+buffers/buffer-read.js noAssert="true" buffer="slow" type="Int16LE" millions="1": 329.49385
+buffers/buffer-read.js noAssert="true" buffer="slow" type="Int16BE" millions="1": 348.46885
+buffers/buffer-read.js noAssert="true" buffer="slow" type="Int32LE" millions="1": 363.68913
+buffers/buffer-read.js noAssert="true" buffer="slow" type="Int32BE" millions="1": 394.06134
+buffers/buffer-read.js noAssert="true" buffer="slow" type="FloatLE" millions="1": 13.98034
+buffers/buffer-read.js noAssert="true" buffer="slow" type="FloatBE" millions="1": 17.08387
+buffers/buffer-read.js noAssert="true" buffer="slow" type="DoubleLE" millions="1": 19.89371
+buffers/buffer-read.js noAssert="true" buffer="slow" type="DoubleBE" millions="1": 16.86070
+
+buffers/buffer-slice.js type="fast" n="1024": 6506.67850
+buffers/buffer-slice.js type="slow" n="1024": 6485.86943
+
+buffers/buffer-swap.js aligned="true" method="swap16" len="8" n="50000000": 74903255.55435
+buffers/buffer-swap.js aligned="true" method="swap16" len="64" n="50000000": 17271051.22052
+buffers/buffer-swap.js aligned="true" method="swap16" len="128" n="50000000": 9895845.38225
+buffers/buffer-swap.js aligned="true" method="swap16" len="256" n="50000000": 6973121.97708
+buffers/buffer-swap.js aligned="true" method="swap16" len="512" n="50000000": 4511081.13980
+buffers/buffer-swap.js aligned="true" method="swap16" len="768" n="50000000": 3311691.57044
+buffers/buffer-swap.js aligned="true" method="swap16" len="1024" n="50000000": 2696502.22527
+buffers/buffer-swap.js aligned="true" method="swap16" len="1536" n="50000000": 1840753.22879
+buffers/buffer-swap.js aligned="true" method="swap16" len="2056" n="50000000": 1395834.38421
+buffers/buffer-swap.js aligned="true" method="swap16" len="4096" n="50000000": 715483.51350
+buffers/buffer-swap.js aligned="true" method="swap16" len="8192" n="50000000": 374407.83278
+buffers/buffer-swap.js aligned="true" method="swap32" len="8" n="50000000": 88112680.39893
+buffers/buffer-swap.js aligned="true" method="swap32" len="64" n="50000000": 24051271.62731
+buffers/buffer-swap.js aligned="true" method="swap32" len="128" n="50000000": 13256768.34104
+buffers/buffer-swap.js aligned="true" method="swap32" len="256" n="50000000": 10422918.14405
+buffers/buffer-swap.js aligned="true" method="swap32" len="512" n="50000000": 7753822.17050
+buffers/buffer-swap.js aligned="true" method="swap32" len="768" n="50000000": 6001292.11036
+buffers/buffer-swap.js aligned="true" method="swap32" len="1024" n="50000000": 5229090.01660
+buffers/buffer-swap.js aligned="true" method="swap32" len="1536" n="50000000": 3973387.90172
+buffers/buffer-swap.js aligned="true" method="swap32" len="2056" n="50000000": 3100808.91752
+buffers/buffer-swap.js aligned="true" method="swap32" len="4096" n="50000000": 1728063.11622
+buffers/buffer-swap.js aligned="true" method="swap32" len="8192" n="50000000": 915999.61008
+buffers/buffer-swap.js aligned="true" method="swap64" len="8" n="50000000": 94478839.35044
+buffers/buffer-swap.js aligned="true" method="swap64" len="64" n="50000000": 27216887.23633
+buffers/buffer-swap.js aligned="true" method="swap64" len="128" n="50000000": 15332786.11867
+buffers/buffer-swap.js aligned="true" method="swap64" len="256" n="50000000": 13713748.92148
+buffers/buffer-swap.js aligned="true" method="swap64" len="512" n="50000000": 10290258.06877
+buffers/buffer-swap.js aligned="true" method="swap64" len="768" n="50000000": 8738448.34933
+buffers/buffer-swap.js aligned="true" method="swap64" len="1024" n="50000000": 7462871.20974
+buffers/buffer-swap.js aligned="true" method="swap64" len="1536" n="50000000": 5549308.61499
+buffers/buffer-swap.js aligned="true" method="swap64" len="2056" n="50000000": 4729980.76266
+buffers/buffer-swap.js aligned="true" method="swap64" len="4096" n="50000000": 2585144.41361
+buffers/buffer-swap.js aligned="true" method="swap64" len="8192" n="50000000": 1418301.83351
+buffers/buffer-swap.js aligned="false" method="swap16" len="8" n="50000000": 76619661.88326
+buffers/buffer-swap.js aligned="false" method="swap16" len="64" n="50000000": 17861085.78113
+buffers/buffer-swap.js aligned="false" method="swap16" len="128" n="50000000": 9246038.51829
+buffers/buffer-swap.js aligned="false" method="swap16" len="256" n="50000000": 6867227.06191
+buffers/buffer-swap.js aligned="false" method="swap16" len="512" n="50000000": 4065857.92884
+buffers/buffer-swap.js aligned="false" method="swap16" len="768" n="50000000": 2834545.23135
+buffers/buffer-swap.js aligned="false" method="swap16" len="1024" n="50000000": 2260924.14648
+buffers/buffer-swap.js aligned="false" method="swap16" len="1536" n="50000000": 1508528.87090
+buffers/buffer-swap.js aligned="false" method="swap16" len="2056" n="50000000": 1173002.95810
+buffers/buffer-swap.js aligned="false" method="swap16" len="4096" n="50000000": 608575.56791
+buffers/buffer-swap.js aligned="false" method="swap16" len="8192" n="50000000": 304748.37497
+buffers/buffer-swap.js aligned="false" method="swap32" len="8" n="50000000": 87641626.23875
+buffers/buffer-swap.js aligned="false" method="swap32" len="64" n="50000000": 22497210.22220
+buffers/buffer-swap.js aligned="false" method="swap32" len="128" n="50000000": 11846114.06173
+buffers/buffer-swap.js aligned="false" method="swap32" len="256" n="50000000": 6769867.20932
+buffers/buffer-swap.js aligned="false" method="swap32" len="512" n="50000000": 3986889.52842
+buffers/buffer-swap.js aligned="false" method="swap32" len="768" n="50000000": 2821450.97828
+buffers/buffer-swap.js aligned="false" method="swap32" len="1024" n="50000000": 2216782.24107
+buffers/buffer-swap.js aligned="false" method="swap32" len="1536" n="50000000": 1528785.98205
+buffers/buffer-swap.js aligned="false" method="swap32" len="2056" n="50000000": 1134993.46320
+buffers/buffer-swap.js aligned="false" method="swap32" len="4096" n="50000000": 608588.04445
+buffers/buffer-swap.js aligned="false" method="swap32" len="8192" n="50000000": 309244.17057
+buffers/buffer-swap.js aligned="false" method="swap64" len="8" n="50000000": 93328016.49845
+buffers/buffer-swap.js aligned="false" method="swap64" len="64" n="50000000": 27117290.21088
+buffers/buffer-swap.js aligned="false" method="swap64" len="128" n="50000000": 14334612.31867
+buffers/buffer-swap.js aligned="false" method="swap64" len="256" n="50000000": 7132704.41268
+buffers/buffer-swap.js aligned="false" method="swap64" len="512" n="50000000": 3794213.94062
+buffers/buffer-swap.js aligned="false" method="swap64" len="768" n="50000000": 2824678.51225
+buffers/buffer-swap.js aligned="false" method="swap64" len="1024" n="50000000": 2238739.20497
+buffers/buffer-swap.js aligned="false" method="swap64" len="1536" n="50000000": 1552465.85714
+buffers/buffer-swap.js aligned="false" method="swap64" len="2056" n="50000000": 1174860.35322
+buffers/buffer-swap.js aligned="false" method="swap64" len="4096" n="50000000": 600194.95468
+buffers/buffer-swap.js aligned="false" method="swap64" len="8192" n="50000000": 307557.06610
+
+buffers/buffer-tostring.js arg="true" len="0" n="10000000": 46837018.83687
+buffers/buffer-tostring.js arg="true" len="1" n="10000000": 8680568.81754
+buffers/buffer-tostring.js arg="true" len="64" n="10000000": 6769356.83507
+buffers/buffer-tostring.js arg="true" len="1024" n="10000000": 3340509.34424
+buffers/buffer-tostring.js arg="false" len="0" n="10000000": 23657205.81965
+buffers/buffer-tostring.js arg="false" len="1" n="10000000": 11213611.49429
+buffers/buffer-tostring.js arg="false" len="64" n="10000000": 8373682.49464
+buffers/buffer-tostring.js arg="false" len="1024" n="10000000": 3524347.90907
+
+buffers/buffer-write.js noAssert="false" buffer="fast" type="UInt8" millions="1": 51.00823
+buffers/buffer-write.js noAssert="false" buffer="fast" type="UInt16LE" millions="1": 48.30069
+buffers/buffer-write.js noAssert="false" buffer="fast" type="UInt16BE" millions="1": 50.10322
+buffers/buffer-write.js noAssert="false" buffer="fast" type="UInt32LE" millions="1": 46.84019
+buffers/buffer-write.js noAssert="false" buffer="fast" type="UInt32BE" millions="1": 47.98544
+buffers/buffer-write.js noAssert="false" buffer="fast" type="Int8" millions="1": 54.12581
+buffers/buffer-write.js noAssert="false" buffer="fast" type="Int16LE" millions="1": 50.00957
+buffers/buffer-write.js noAssert="false" buffer="fast" type="Int16BE" millions="1": 52.14473
+buffers/buffer-write.js noAssert="false" buffer="fast" type="Int32LE" millions="1": 50.16518
+buffers/buffer-write.js noAssert="false" buffer="fast" type="Int32BE" millions="1": 45.82044
+buffers/buffer-write.js noAssert="false" buffer="fast" type="FloatLE" millions="1": 19.70223
+buffers/buffer-write.js noAssert="false" buffer="fast" type="FloatBE" millions="1": 18.26938
+buffers/buffer-write.js noAssert="false" buffer="fast" type="DoubleLE" millions="1": 19.32862
+buffers/buffer-write.js noAssert="false" buffer="fast" type="DoubleBE" millions="1": 17.80802
+buffers/buffer-write.js noAssert="false" buffer="slow" type="UInt8" millions="1": 52.57800
+buffers/buffer-write.js noAssert="false" buffer="slow" type="UInt16LE" millions="1": 50.98431
+buffers/buffer-write.js noAssert="false" buffer="slow" type="UInt16BE" millions="1": 51.59186
+buffers/buffer-write.js noAssert="false" buffer="slow" type="UInt32LE" millions="1": 49.36355
+buffers/buffer-write.js noAssert="false" buffer="slow" type="UInt32BE" millions="1": 48.14669
+buffers/buffer-write.js noAssert="false" buffer="slow" type="Int8" millions="1": 53.54180
+buffers/buffer-write.js noAssert="false" buffer="slow" type="Int16LE" millions="1": 52.29125
+buffers/buffer-write.js noAssert="false" buffer="slow" type="Int16BE" millions="1": 51.11687
+buffers/buffer-write.js noAssert="false" buffer="slow" type="Int32LE" millions="1": 50.49029
+buffers/buffer-write.js noAssert="false" buffer="slow" type="Int32BE" millions="1": 49.11979
+buffers/buffer-write.js noAssert="false" buffer="slow" type="FloatLE" millions="1": 19.77207
+buffers/buffer-write.js noAssert="false" buffer="slow" type="FloatBE" millions="1": 17.99511
+buffers/buffer-write.js noAssert="false" buffer="slow" type="DoubleLE" millions="1": 19.24370
+buffers/buffer-write.js noAssert="false" buffer="slow" type="DoubleBE" millions="1": 17.37443
+buffers/buffer-write.js noAssert="true" buffer="fast" type="UInt8" millions="1": 406.25420
+buffers/buffer-write.js noAssert="true" buffer="fast" type="UInt16LE" millions="1": 351.16712
+buffers/buffer-write.js noAssert="true" buffer="fast" type="UInt16BE" millions="1": 334.17568
+buffers/buffer-write.js noAssert="true" buffer="fast" type="UInt32LE" millions="1": 274.68981
+buffers/buffer-write.js noAssert="true" buffer="fast" type="UInt32BE" millions="1": 267.41035
+buffers/buffer-write.js noAssert="true" buffer="fast" type="Int8" millions="1": 404.50964
+buffers/buffer-write.js noAssert="true" buffer="fast" type="Int16LE" millions="1": 341.07633
+buffers/buffer-write.js noAssert="true" buffer="fast" type="Int16BE" millions="1": 357.00707
+buffers/buffer-write.js noAssert="true" buffer="fast" type="Int32LE" millions="1": 161.00400
+buffers/buffer-write.js noAssert="true" buffer="fast" type="Int32BE" millions="1": 245.83778
+buffers/buffer-write.js noAssert="true" buffer="fast" type="FloatLE" millions="1": 12.24508
+buffers/buffer-write.js noAssert="true" buffer="fast" type="FloatBE" millions="1": 17.61892
+buffers/buffer-write.js noAssert="true" buffer="fast" type="DoubleLE" millions="1": 13.79810
+buffers/buffer-write.js noAssert="true" buffer="fast" type="DoubleBE" millions="1": 12.01224
+buffers/buffer-write.js noAssert="true" buffer="slow" type="UInt8" millions="1": 330.67296
+buffers/buffer-write.js noAssert="true" buffer="slow" type="UInt16LE" millions="1": 247.88480
+buffers/buffer-write.js noAssert="true" buffer="slow" type="UInt16BE" millions="1": 201.86609
+buffers/buffer-write.js noAssert="true" buffer="slow" type="UInt32LE" millions="1": 245.63006
+buffers/buffer-write.js noAssert="true" buffer="slow" type="UInt32BE" millions="1": 244.90548
+buffers/buffer-write.js noAssert="true" buffer="slow" type="Int8" millions="1": 339.88299
+buffers/buffer-write.js noAssert="true" buffer="slow" type="Int16LE" millions="1": 216.59180
+buffers/buffer-write.js noAssert="true" buffer="slow" type="Int16BE" millions="1": 203.68366
+buffers/buffer-write.js noAssert="true" buffer="slow" type="Int32LE" millions="1": 273.24540
+buffers/buffer-write.js noAssert="true" buffer="slow" type="Int32BE" millions="1": 251.83658
+buffers/buffer-write.js noAssert="true" buffer="slow" type="FloatLE" millions="1": 18.82596
+buffers/buffer-write.js noAssert="true" buffer="slow" type="FloatBE" millions="1": 15.43475
+buffers/buffer-write.js noAssert="true" buffer="slow" type="DoubleLE" millions="1": 13.77701
+buffers/buffer-write.js noAssert="true" buffer="slow" type="DoubleBE" millions="1": 18.95594
+
+buffers/buffer_zero.js n="1024" type="buffer": 4555.56252
+buffers/buffer_zero.js n="1024" type="string": 6697.57563
+
+buffers/dataview-set.js type="Uint8" millions="1": 23.63714
+buffers/dataview-set.js type="Uint16LE" millions="1": 21.76299
+buffers/dataview-set.js type="Uint16BE" millions="1": 21.94365
+buffers/dataview-set.js type="Uint32LE" millions="1": 18.55110
+buffers/dataview-set.js type="Uint32BE" millions="1": 19.04647
+buffers/dataview-set.js type="Int8" millions="1": 23.12660
+buffers/dataview-set.js type="Int16LE" millions="1": 21.53045
+buffers/dataview-set.js type="Int16BE" millions="1": 22.23460
+buffers/dataview-set.js type="Int32LE" millions="1": 22.78843
+buffers/dataview-set.js type="Int32BE" millions="1": 21.68817
+buffers/dataview-set.js type="Float32LE" millions="1": 20.08555
+buffers/dataview-set.js type="Float32BE" millions="1": 21.10092
+buffers/dataview-set.js type="Float64LE" millions="1": 20.73268
+buffers/dataview-set.js type="Float64BE" millions="1": 20.92806
+
+
+crypto/cipher-stream.js writes="500" cipher="AES192" type="asc" len="2" api="legacy": 0.00052
+crypto/cipher-stream.js writes="500" cipher="AES192" type="asc" len="2" api="stream": 0.00027
+crypto/cipher-stream.js writes="500" cipher="AES192" type="asc" len="1024" api="legacy": 0.00133
+crypto/cipher-stream.js writes="500" cipher="AES192" type="asc" len="1024" api="stream": 0.00073
+crypto/cipher-stream.js writes="500" cipher="AES192" type="asc" len="102400" api="legacy": 0.00179
+crypto/cipher-stream.js writes="500" cipher="AES192" type="asc" len="102400" api="stream": 0.00093
+crypto/cipher-stream.js writes="500" cipher="AES192" type="asc" len="1048576" api="legacy": 0.00202
+crypto/cipher-stream.js writes="500" cipher="AES192" type="asc" len="1048576" api="stream": 0.00112
+crypto/cipher-stream.js writes="500" cipher="AES192" type="utf" len="2" api="legacy": 0.00053
+crypto/cipher-stream.js writes="500" cipher="AES192" type="utf" len="2" api="stream": 0.00028
+crypto/cipher-stream.js writes="500" cipher="AES192" type="utf" len="1024" api="legacy": 0.12848
+crypto/cipher-stream.js writes="500" cipher="AES192" type="utf" len="1024" api="stream": 0.12471
+crypto/cipher-stream.js writes="500" cipher="AES192" type="utf" len="102400" api="legacy": 0.23391
+crypto/cipher-stream.js writes="500" cipher="AES192" type="utf" len="102400" api="stream": 1.64227
+crypto/cipher-stream.js writes="500" cipher="AES192" type="utf" len="1048576" api="legacy": 0.24446
+crypto/cipher-stream.js writes="500" cipher="AES192" type="utf" len="1048576" api="stream": 1.94345
+
+crypto/get-ciphers.js n="1" v="crypto": 11154.48968
+crypto/get-ciphers.js n="1" v="tls": 11811.95370
+crypto/get-ciphers.js n="5000" v="crypto": 36544899.06299
+crypto/get-ciphers.js n="5000" v="tls": 19383075.47382
+
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="hex" len="2" api="legacy": 0.00380
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="hex" len="2" api="stream": 0.00019
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="hex" len="1024" api="legacy": 1.85309
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="hex" len="1024" api="stream": 0.09435
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="hex" len="102400" api="legacy": 173.70326
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="hex" len="102400" api="stream": 9.26614
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="hex" len="1048576" api="legacy": 1819.71191
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="hex" len="1048576" api="stream": 95.11808
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="binary" len="2" api="legacy": 0.00368
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="binary" len="2" api="stream": 0.00019
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="binary" len="1024" api="legacy": 1.97422
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="binary" len="1024" api="stream": 0.09668
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="binary" len="102400" api="legacy": 188.77276
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="binary" len="102400" api="stream": 9.45625
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="binary" len="1048576" api="legacy": 1947.54820
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="binary" len="1048576" api="stream": 98.67284
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="buffer" len="2" api="legacy": 0.00315
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="buffer" len="2" api="stream": 0.00020
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="buffer" len="1024" api="legacy": 1.50819
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="buffer" len="1024" api="stream": 0.09669
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="buffer" len="102400" api="legacy": 157.63635
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="buffer" len="102400" api="stream": 9.97091
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="buffer" len="1048576" api="legacy": 1566.53351
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="asc" out="buffer" len="1048576" api="stream": 104.67956
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="hex" len="2" api="legacy": 0.00370
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="hex" len="2" api="stream": 0.00018
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="hex" len="1024" api="legacy": 0.85784
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="hex" len="1024" api="stream": 0.08475
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="hex" len="102400" api="legacy": 1.95999
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="hex" len="102400" api="stream": 1.59683
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="hex" len="1048576" api="legacy": 1.94956
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="hex" len="1048576" api="stream": 1.83189
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="binary" len="2" api="legacy": 0.00352
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="binary" len="2" api="stream": 0.00016
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="binary" len="1024" api="legacy": 0.91865
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="binary" len="1024" api="stream": 0.08413
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="binary" len="102400" api="legacy": 1.94647
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="binary" len="102400" api="stream": 1.57827
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="binary" len="1048576" api="legacy": 1.96985
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="binary" len="1048576" api="stream": 1.78176
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="buffer" len="2" api="legacy": 0.00300
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="buffer" len="2" api="stream": 0.00020
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="buffer" len="1024" api="legacy": 0.82151
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="buffer" len="1024" api="stream": 0.08698
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="buffer" len="102400" api="legacy": 1.91281
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="buffer" len="102400" api="stream": 1.59513
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="buffer" len="1048576" api="legacy": 1.96943
+crypto/hash-stream-creation.js writes="500" algo="sha256" type="utf" out="buffer" len="1048576" api="stream": 1.90915
+
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="asc" len="2" api="legacy": 0.00992
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="asc" len="2" api="stream": 0.00069
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="asc" len="1024" api="legacy": 4.97401
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="asc" len="1024" api="stream": 0.29856
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="asc" len="102400" api="legacy": 448.94637
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="asc" len="102400" api="stream": 37.22502
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="asc" len="1048576" api="legacy": 4895.61453
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="asc" len="1048576" api="stream": 383.78673
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="utf" len="2" api="legacy": 0.00889
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="utf" len="2" api="stream": 0.00063
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="utf" len="1024" api="legacy": 1.80263
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="utf" len="1024" api="stream": 0.33423
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="utf" len="102400" api="legacy": 3.50847
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="utf" len="102400" api="stream": 3.14387
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="utf" len="1048576" api="legacy": 3.47634
+crypto/hash-stream-throughput.js writes="500" algo="sha1" type="utf" len="1048576" api="stream": 3.48645
+
+
+
+domain/domain-fn-args.js arguments="0" n="10": 11209.04076
+domain/domain-fn-args.js arguments="1" n="10": 13966.92911
+domain/domain-fn-args.js arguments="2" n="10": 13783.35054
+domain/domain-fn-args.js arguments="3" n="10": 14827.64347
+
+events/ee-add-remove.js n="250000": 1023185.62780
+
+events/ee-emit-multi-args.js n="2000000": 5251829.57396
+
+events/ee-emit.js n="2000000": 7728267.97714
+
+events/ee-listener-count-on-prototype.js n="50000000": 428363334.55908
+
+events/ee-listeners-many.js n="5000000": 3055362.85535
+
+events/ee-listeners.js n="5000000": 18423786.07175
+
+fs/bench-readdir.js n="10000": 17979.28739
+
+fs/bench-readdirSync.js n="10000": 29869.89109
+
+fs/read-stream-throughput.js type="buf" size="1024": 39.35125
+fs/read-stream-throughput.js type="buf" size="4096": 141.64278
+fs/read-stream-throughput.js type="buf" size="65535": 855.82906
+fs/read-stream-throughput.js type="buf" size="1048576": 1219.41287
+fs/read-stream-throughput.js type="asc" size="1024": 37.70118
+fs/read-stream-throughput.js type="asc" size="4096": 115.28116
+fs/read-stream-throughput.js type="asc" size="65535": 801.63996
+fs/read-stream-throughput.js type="asc" size="1048576": 1039.57325
+fs/read-stream-throughput.js type="utf" size="1024": 15.21458
+fs/read-stream-throughput.js type="utf" size="4096": 30.79685
+fs/read-stream-throughput.js type="utf" size="65535": 61.12484
+fs/read-stream-throughput.js type="utf" size="1048576": 63.83946
+
+fs/readfile.js dur="5" len="1024" concurrent="1": 12025.23117
+
+fs/write-stream-throughput.js dur="5" type="buf" size="2": 7.49137
+fs/write-stream-throughput.js dur="5" type="buf" size="1024": 205.98329
+fs/write-stream-throughput.js dur="5" type="buf" size="65535": 463.50320
+fs/write-stream-throughput.js dur="5" type="buf" size="1048576": 446.78045
+fs/write-stream-throughput.js dur="5" type="asc" size="2": 2.23028
+fs/write-stream-throughput.js dur="5" type="asc" size="1024": 173.18119
+fs/write-stream-throughput.js dur="5" type="asc" size="65535": 359.01880
+fs/write-stream-throughput.js dur="5" type="asc" size="1048576": 327.01563
+fs/write-stream-throughput.js dur="5" type="utf" size="2": 2.41609
+fs/write-stream-throughput.js dur="5" type="utf" size="1024": 131.06294
+fs/write-stream-throughput.js dur="5" type="utf" size="65535": 323.63972
+fs/write-stream-throughput.js dur="5" type="utf" size="1048576": 339.27717
+
+module/module-loader.js thousands="50" fullPath="true": 7.52405
+module/module-loader.js thousands="50" fullPath="false": 6.45305
+
+path/basename-posix.js pathext="" n="1000000": 55588003.50849
+path/basename-posix.js pathext="/" n="1000000": 48624143.39454
+path/basename-posix.js pathext="/foo" n="1000000": 16657210.92327
+path/basename-posix.js pathext="/foo/.bar.baz" n="1000000": 12747852.02518
+path/basename-posix.js pathext="/foo/.bar.baz|.baz" n="1000000": 7280342.40499
+path/basename-posix.js pathext="foo" n="1000000": 24015201.43038
+path/basename-posix.js pathext="foo/bar." n="1000000": 15922747.92236
+path/basename-posix.js pathext="foo/bar.|." n="1000000": 8044649.73675
+path/basename-posix.js pathext="/foo/bar/baz/asdf/quux.html" n="1000000": 10497543.45936
+path/basename-posix.js pathext="/foo/bar/baz/asdf/quux.html|.html" n="1000000": 6969395.21812
+
+path/basename-win32.js pathext="" n="1000000": 40123311.77655
+path/basename-win32.js pathext="C:\\" n="1000000": 14580902.36276
+path/basename-win32.js pathext="C:\\foo" n="1000000": 9334024.79789
+path/basename-win32.js pathext="D:\\foo\\.bar.baz" n="1000000": 7607990.26743
+path/basename-win32.js pathext="E:\\foo\\.bar.baz|.baz" n="1000000": 5556234.12608
+path/basename-win32.js pathext="foo" n="1000000": 10985257.65241
+path/basename-win32.js pathext="foo\\bar." n="1000000": 8655831.58522
+path/basename-win32.js pathext="foo\\bar.|." n="1000000": 6177952.14293
+path/basename-win32.js pathext="\\foo\\bar\\baz\\asdf\\quux.html" n="1000000": 7323906.78662
+path/basename-win32.js pathext="\\foo\\bar\\baz\\asdf\\quux.html|.html" n="1000000": 5607894.12489
+
+path/dirname-posix.js path="" n="1000000": 60775347.57421
+path/dirname-posix.js path="/" n="1000000": 52013916.42737
+path/dirname-posix.js path="/foo" n="1000000": 36353778.54085
+path/dirname-posix.js path="/foo/bar" n="1000000": 16690318.51704
+path/dirname-posix.js path="foo" n="1000000": 39392116.61327
+path/dirname-posix.js path="foo/bar" n="1000000": 17158143.67622
+path/dirname-posix.js path="/foo/bar/baz/asdf/quux" n="1000000": 16269315.74512
+
+path/dirname-win32.js path="" n="1000000": 54381572.21693
+path/dirname-win32.js path="\\" n="1000000": 27128007.00054
+path/dirname-win32.js path="\\foo" n="1000000": 9868930.73096
+path/dirname-win32.js path="C:\\foo\\bar" n="1000000": 6575211.73974
+path/dirname-win32.js path="foo" n="1000000": 12425568.51480
+path/dirname-win32.js path="foo\\bar" n="1000000": 8082097.10182
+path/dirname-win32.js path="D:\\foo\\bar\\baz\\asdf\\quux" n="1000000": 6907399.72395
+
+path/extname-posix.js path="" n="1000000": 54802343.01937
+path/extname-posix.js path="/" n="1000000": 42766187.11943
+path/extname-posix.js path="/foo" n="1000000": 26729710.29217
+path/extname-posix.js path="foo/.bar.baz" n="1000000": 8075374.83811
+path/extname-posix.js path="index.html" n="1000000": 5991325.71071
+path/extname-posix.js path="index" n="1000000": 22519113.20993
+path/extname-posix.js path="foo/bar/..baz.quux" n="1000000": 9047361.42616
+path/extname-posix.js path="foo/bar/...baz.quux" n="1000000": 8644769.36214
+path/extname-posix.js path="/foo/bar/baz/asdf/quux" n="1000000": 22916143.41473
+path/extname-posix.js path="/foo/bar/baz/asdf/quux.foobarbazasdfquux" n="1000000": 5133533.84164
+
+path/extname-win32.js path="" n="1000000": 45257324.32091
+path/extname-win32.js path="\\" n="1000000": 22969672.20004
+path/extname-win32.js path="C:\\foo" n="1000000": 23232044.87019
+path/extname-win32.js path="foo\\.bar.baz" n="1000000": 8888797.39353
+path/extname-win32.js path="index.html" n="1000000": 7470126.53446
+path/extname-win32.js path="index" n="1000000": 21352801.62210
+path/extname-win32.js path="foo\\bar\\..baz.quux" n="1000000": 7576565.51315
+path/extname-win32.js path="foo\\bar\\...baz.quux" n="1000000": 7393612.18672
+path/extname-win32.js path="D:\\foo\\bar\\baz\\asdf\\quux" n="1000000": 21045964.66042
+path/extname-win32.js path="\\foo\\bar\\baz\\asdf\\quux.foobarbazasdfquux" n="1000000": 4192856.52384
+
+path/format-posix.js props="/|/home/user/dir|index.html|.html|index" n="10000000": 21788440.75501
+
+path/format-win32.js props="C:\\|C:\\path\\dir|index.html|.html|index" n="10000000": 16226673.99184
+
+path/isAbsolute-posix.js path="" n="1000000": 55118706.12585
+path/isAbsolute-posix.js path="." n="1000000": 50227555.94220
+path/isAbsolute-posix.js path="/foo/bar" n="1000000": 56573286.98774
+path/isAbsolute-posix.js path="/baz/.." n="1000000": 54703610.64071
+path/isAbsolute-posix.js path="bar/baz" n="1000000": 52780486.58964
+
+path/isAbsolute-win32.js path="" n="1000000": 54663026.76504
+path/isAbsolute-win32.js path="." n="1000000": 29788029.57308
+path/isAbsolute-win32.js path="//server" n="1000000": 28423040.80832
+path/isAbsolute-win32.js path="C:\\baz\\.." n="1000000": 15109404.32594
+path/isAbsolute-win32.js path="C:baz\\.." n="1000000": 15574030.33556
+path/isAbsolute-win32.js path="bar\\baz" n="1000000": 20374705.50401
+
+path/join-posix.js paths="/foo|bar||baz/asdf|quux|.." n="1000000": 1093090.42958
+
+path/join-win32.js paths="C:\\foo|bar||baz\\asdf|quux|.." n="1000000": 935885.08817
+
+path/makeLong-win32.js path="foo\\bar" n="1000000": 824559.17850
+path/makeLong-win32.js path="C:\\foo" n="1000000": 3187106.26330
+path/makeLong-win32.js path="\\\\foo\\bar" n="1000000": 2636991.24004
+path/makeLong-win32.js path="\\\\?\\foo" n="1000000": 3211290.13568
+
+path/normalize-posix.js path="" n="1000000": 55978726.74035
+path/normalize-posix.js path="." n="1000000": 12171649.51886
+path/normalize-posix.js path="/../" n="1000000": 8968079.09996
+path/normalize-posix.js path="/foo" n="1000000": 6705524.24087
+path/normalize-posix.js path="/foo/bar" n="1000000": 4258774.99080
+path/normalize-posix.js path="/foo/bar//baz/asdf/quux/.." n="1000000": 1553510.35262
+
+path/normalize-win32.js path="" n="1000000": 57886148.36567
+path/normalize-win32.js path="." n="1000000": 7564115.94289
+path/normalize-win32.js path="C:\\..\\" n="1000000": 4061366.23662
+path/normalize-win32.js path="C:\\foo" n="1000000": 3510881.63708
+path/normalize-win32.js path="C:\\foo\\bar" n="1000000": 2716228.61826
+path/normalize-win32.js path="C:\\foo\\bar\\\\baz\\asdf\\quux\\.." n="1000000": 1258318.00104
+
+path/parse-posix.js path="" n="1000000": 37607785.32303
+path/parse-posix.js path="/" n="1000000": 17086151.33091
+path/parse-posix.js path="/foo" n="1000000": 8274993.52565
+path/parse-posix.js path="/foo/bar.baz" n="1000000": 4138341.40954
+path/parse-posix.js path="foo/.bar.baz" n="1000000": 4053590.59170
+path/parse-posix.js path="foo/bar" n="1000000": 6866327.57079
+path/parse-posix.js path="/foo/bar/baz/asdf/.quux" n="1000000": 5858746.08878
+
+path/parse-win32.js path="" n="1000000": 38557686.50179
+path/parse-win32.js path="C:\\" n="1000000": 8101582.83054
+path/parse-win32.js path="C:\\foo" n="1000000": 4208189.89332
+path/parse-win32.js path="\\foo" n="1000000": 5001200.11299
+path/parse-win32.js path="E:\\foo\\bar.baz" n="1000000": 2813967.54211
+path/parse-win32.js path="foo\\.bar.baz" n="1000000": 3474622.18479
+path/parse-win32.js path="foo\\bar" n="1000000": 5279621.19858
+path/parse-win32.js path="\\foo\\bar\\baz\\asdf\\.quux" n="1000000": 4337843.01277
+
+path/relative-posix.js paths="/data/orandea/test/aaa|/data/orandea/impl/bbb" n="1000000": 628540.20280
+path/relative-posix.js paths="/|/var" n="1000000": 2581511.15002
+path/relative-posix.js paths="/|/" n="1000000": 52784673.94881
+path/relative-posix.js paths="/var|/bin" n="1000000": 2110404.81935
+path/relative-posix.js paths="/foo/bar/baz/quux|/" n="1000000": 1054569.60703
+path/relative-posix.js paths="/foo/bar/baz/quux|/foo/bar/baz/quux" n="1000000": 17021040.76379
+path/relative-posix.js paths="/foo/bar/baz/quux|/var/log" n="1000000": 912374.42021
+
+path/relative-win32.js paths="C:\\orandea\\test\\aaa|C:\\orandea\\impl\\bbb" n="1000000": 531973.87622
+path/relative-win32.js paths="C:\\|D:\\" n="1000000": 1630089.37376
+path/relative-win32.js paths="C:\\foo\\bar\\baz|C:\\foo\\bar\\baz" n="1000000": 16680385.44968
+path/relative-win32.js paths="C:\\foo\\BAR\\BAZ|C:\\foo\\bar\\baz" n="1000000": 750319.54402
+path/relative-win32.js paths="C:\\foo\\bar\\baz\\quux|C:\\" n="1000000": 825889.10003
+
+path/resolve-posix.js paths="" n="1000000": 1197673.43360
+path/resolve-posix.js paths="|" n="1000000": 1177208.32808
+path/resolve-posix.js paths="foo/bar|/tmp/file/|..|a/../subfile" n="1000000": 1273705.92328
+path/resolve-posix.js paths="a/b/c/|../../.." n="1000000": 708178.02732
+
+path/resolve-win32.js paths="" n="1000000": 1186992.42846
+path/resolve-win32.js paths="|" n="1000000": 1186182.24886
+path/resolve-win32.js paths="c:/ignore|d:\\a/b\\c/d|\\e.exe" n="1000000": 2718711.05387
+path/resolve-win32.js paths="c:/blah\\blah|d:/games|c:../a" n="1000000": 932744.83129
+
+process/bench-env.js n="100000": 187094.03354
+
+process/bench-hrtime.js n="1000000": 4348194.68153
+
+process/next-tick-breadth-args.js millions="2": 0.95430
+
+process/next-tick-breadth.js millions="2": 1.70210
+
+process/next-tick-depth-args.js millions="2": 8.22674
+
+process/next-tick-depth.js millions="2": 14.04681
+
+querystring/querystring-parse.js type="noencode" n="1000000": 612429.00699
+querystring/querystring-parse.js type="multicharsep" n="1000000": 564757.15837
+querystring/querystring-parse.js type="encodemany" n="1000000": 300155.44961
+querystring/querystring-parse.js type="encodelast" n="1000000": 505296.15171
+querystring/querystring-parse.js type="multivalue" n="1000000": 444830.77167
+querystring/querystring-parse.js type="multivaluemany" n="1000000": 205618.10116
+querystring/querystring-parse.js type="manypairs" n="1000000": 160278.73688
+
+querystring/querystring-stringify.js type="noencode" n="10000000": 1788043.84534
+querystring/querystring-stringify.js type="encodemany" n="10000000": 1241759.57835
+querystring/querystring-stringify.js type="encodelast" n="10000000": 1538713.90411
+
+string_decoder/string-decoder-create.js encoding="ascii" n="25000000": 15611909.87217
+string_decoder/string-decoder-create.js encoding="utf8" n="25000000": 3741529.84374
+string_decoder/string-decoder-create.js encoding="utf-8" n="25000000": 4563815.00723
+string_decoder/string-decoder-create.js encoding="base64" n="25000000": 3745973.54444
+string_decoder/string-decoder-create.js encoding="ucs2" n="25000000": 3693190.25632
+string_decoder/string-decoder-create.js encoding="UTF-8" n="25000000": 2740812.91095
+string_decoder/string-decoder-create.js encoding="AscII" n="25000000": 6456580.82312
+string_decoder/string-decoder-create.js encoding="UTF-16LE" n="25000000": 2476025.25875
+
+string_decoder/string-decoder.js encoding="ascii" inlen="32" chunk="16" n="2500000": 2892084.29576
+string_decoder/string-decoder.js encoding="ascii" inlen="32" chunk="64" n="2500000": 5938287.30407
+string_decoder/string-decoder.js encoding="ascii" inlen="32" chunk="256" n="2500000": 5894906.24806
+string_decoder/string-decoder.js encoding="ascii" inlen="32" chunk="1024" n="2500000": 5843040.63383
+string_decoder/string-decoder.js encoding="ascii" inlen="128" chunk="16" n="2500000": 756661.09784
+string_decoder/string-decoder.js encoding="ascii" inlen="128" chunk="64" n="2500000": 2494717.18689
+string_decoder/string-decoder.js encoding="ascii" inlen="128" chunk="256" n="2500000": 4901504.60801
+string_decoder/string-decoder.js encoding="ascii" inlen="128" chunk="1024" n="2500000": 5451725.40981
+string_decoder/string-decoder.js encoding="ascii" inlen="1024" chunk="16" n="2500000": 90300.50212
+string_decoder/string-decoder.js encoding="ascii" inlen="1024" chunk="64" n="2500000": 345099.16221
+string_decoder/string-decoder.js encoding="ascii" inlen="1024" chunk="256" n="2500000": 1285917.58848
+string_decoder/string-decoder.js encoding="ascii" inlen="1024" chunk="1024" n="2500000": 3187097.51556
+string_decoder/string-decoder.js encoding="ascii" inlen="4096" chunk="16" n="2500000": 22442.63391
+string_decoder/string-decoder.js encoding="ascii" inlen="4096" chunk="64" n="2500000": 77239.08550
+string_decoder/string-decoder.js encoding="ascii" inlen="4096" chunk="256" n="2500000": 327147.47803
+string_decoder/string-decoder.js encoding="ascii" inlen="4096" chunk="1024" n="2500000": 792061.93376
+string_decoder/string-decoder.js encoding="utf8" inlen="32" chunk="16" n="2500000": 1983060.95509
+string_decoder/string-decoder.js encoding="utf8" inlen="32" chunk="64" n="2500000": 3086801.87629
+string_decoder/string-decoder.js encoding="utf8" inlen="32" chunk="256" n="2500000": 3188820.93870
+string_decoder/string-decoder.js encoding="utf8" inlen="32" chunk="1024" n="2500000": 3109423.04984
+string_decoder/string-decoder.js encoding="utf8" inlen="128" chunk="16" n="2500000": 422490.63636
+string_decoder/string-decoder.js encoding="utf8" inlen="128" chunk="64" n="2500000": 1065789.44976
+string_decoder/string-decoder.js encoding="utf8" inlen="128" chunk="256" n="2500000": 1343553.74741
+string_decoder/string-decoder.js encoding="utf8" inlen="128" chunk="1024" n="2500000": 1370389.20185
+string_decoder/string-decoder.js encoding="utf8" inlen="1024" chunk="16" n="2500000": 57255.00418
+string_decoder/string-decoder.js encoding="utf8" inlen="1024" chunk="64" n="2500000": 132398.76091
+string_decoder/string-decoder.js encoding="utf8" inlen="1024" chunk="256" n="2500000": 179593.15706
+string_decoder/string-decoder.js encoding="utf8" inlen="1024" chunk="1024" n="2500000": 183714.38304
+string_decoder/string-decoder.js encoding="utf8" inlen="4096" chunk="16" n="2500000": 14421.32341
+string_decoder/string-decoder.js encoding="utf8" inlen="4096" chunk="64" n="2500000": 27569.53168
+string_decoder/string-decoder.js encoding="utf8" inlen="4096" chunk="256" n="2500000": 47263.17802
+string_decoder/string-decoder.js encoding="utf8" inlen="4096" chunk="1024" n="2500000": 46139.96183
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="32" chunk="16" n="2500000": 582198.47430
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="32" chunk="64" n="2500000": 2011675.62208
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="32" chunk="256" n="2500000": 1969293.31971
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="32" chunk="1024" n="2500000": 1940932.12203
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="128" chunk="16" n="2500000": 170453.11625
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="128" chunk="64" n="2500000": 499226.84559
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="128" chunk="256" n="2500000": 1273715.28775
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="128" chunk="1024" n="2500000": 1183213.38221
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="1024" chunk="16" n="2500000": 18260.27344
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="1024" chunk="64" n="2500000": 73612.13352
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="1024" chunk="256" n="2500000": 181726.18181
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="1024" chunk="1024" n="2500000": 279557.02980
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="4096" chunk="16" n="2500000": 5262.20788
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="4096" chunk="64" n="2500000": 17180.23278
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="4096" chunk="256" n="2500000": 45810.92065
+string_decoder/string-decoder.js encoding="base64-utf8" inlen="4096" chunk="1024" n="2500000": 73333.77357
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="32" chunk="16" n="2500000": 698874.15304
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="32" chunk="64" n="2500000": 1740919.83272
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="32" chunk="256" n="2500000": 1843029.48133
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="32" chunk="1024" n="2500000": 1906262.96812
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="128" chunk="16" n="2500000": 193239.38862
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="128" chunk="64" n="2500000": 632814.16956
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="128" chunk="256" n="2500000": 1350570.17353
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="128" chunk="1024" n="2500000": 1338734.70088
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="1024" chunk="16" n="2500000": 25504.29460
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="1024" chunk="64" n="2500000": 84746.06509
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="1024" chunk="256" n="2500000": 202027.21048
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="1024" chunk="1024" n="2500000": 340504.27166
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="4096" chunk="16" n="2500000": 6270.74871
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="4096" chunk="64" n="2500000": 21072.58521
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="4096" chunk="256" n="2500000": 50672.40736
+string_decoder/string-decoder.js encoding="base64-ascii" inlen="4096" chunk="1024" n="2500000": 84800.76478
+string_decoder/string-decoder.js encoding="utf16le" inlen="32" chunk="16" n="2500000": 3217141.70518
+string_decoder/string-decoder.js encoding="utf16le" inlen="32" chunk="64" n="2500000": 5915791.40226
+string_decoder/string-decoder.js encoding="utf16le" inlen="32" chunk="256" n="2500000": 5829796.19000
+string_decoder/string-decoder.js encoding="utf16le" inlen="32" chunk="1024" n="2500000": 5848816.22802
+string_decoder/string-decoder.js encoding="utf16le" inlen="128" chunk="16" n="2500000": 798186.28679
+string_decoder/string-decoder.js encoding="utf16le" inlen="128" chunk="64" n="2500000": 2430977.49661
+string_decoder/string-decoder.js encoding="utf16le" inlen="128" chunk="256" n="2500000": 4308274.21158
+string_decoder/string-decoder.js encoding="utf16le" inlen="128" chunk="1024" n="2500000": 4160567.75281
+string_decoder/string-decoder.js encoding="utf16le" inlen="1024" chunk="16" n="2500000": 101418.38017
+string_decoder/string-decoder.js encoding="utf16le" inlen="1024" chunk="64" n="2500000": 325558.97286
+string_decoder/string-decoder.js encoding="utf16le" inlen="1024" chunk="256" n="2500000": 789788.93761
+string_decoder/string-decoder.js encoding="utf16le" inlen="1024" chunk="1024" n="2500000": 1208207.85879
+string_decoder/string-decoder.js encoding="utf16le" inlen="4096" chunk="16" n="2500000": 24425.03283
+string_decoder/string-decoder.js encoding="utf16le" inlen="4096" chunk="64" n="2500000": 75265.65164
+string_decoder/string-decoder.js encoding="utf16le" inlen="4096" chunk="256" n="2500000": 172673.49011
+string_decoder/string-decoder.js encoding="utf16le" inlen="4096" chunk="1024" n="2500000": 290942.21991
+
+url/url-format.js type="one" n="25000000": 4282894.18076
+url/url-format.js type="two" n="25000000": 3885831.47653
+
+url/url-parse.js type="one" n="250000": 241080.59629
+url/url-parse.js type="two" n="250000": 346483.41612
+url/url-parse.js type="three" n="250000": 241837.99383
+url/url-parse.js type="four" n="250000": 533015.58782
+url/url-parse.js type="five" n="250000": 435088.02687
+url/url-parse.js type="six" n="250000": 307743.57796
+
+url/url-resolve.js href="0" path="0" n="100000": 129676.99754
+url/url-resolve.js href="0" path="1" n="100000": 117052.45590
+url/url-resolve.js href="0" path="2" n="100000": 156346.22059
+url/url-resolve.js href="0" path="3" n="100000": 123270.59947
+url/url-resolve.js href="0" path="4" n="100000": 121273.51280
+url/url-resolve.js href="1" path="0" n="100000": 102820.64936
+url/url-resolve.js href="1" path="1" n="100000": 100783.54388
+url/url-resolve.js href="1" path="2" n="100000": 109807.59648
+url/url-resolve.js href="1" path="3" n="100000": 100955.79719
+url/url-resolve.js href="1" path="4" n="100000": 101237.43653
+url/url-resolve.js href="2" path="0" n="100000": 112737.35485
+url/url-resolve.js href="2" path="1" n="100000": 102233.35114
+url/url-resolve.js href="2" path="2" n="100000": 145465.71553
+url/url-resolve.js href="2" path="3" n="100000": 117702.69717
+url/url-resolve.js href="2" path="4" n="100000": 106769.93751
+url/url-resolve.js href="3" path="0" n="100000": 98767.54012
+url/url-resolve.js href="3" path="1" n="100000": 99320.32785
+url/url-resolve.js href="3" path="2" n="100000": 116742.13028
+url/url-resolve.js href="3" path="3" n="100000": 114904.37692
+url/url-resolve.js href="3" path="4" n="100000": 105737.23122
+url/url-resolve.js href="4" path="0" n="100000": 94012.60565
+url/url-resolve.js href="4" path="1" n="100000": 111112.82546
+url/url-resolve.js href="4" path="2" n="100000": 133968.33251
+url/url-resolve.js href="4" path="3" n="100000": 144797.10300
+url/url-resolve.js href="4" path="4" n="100000": 117660.29810
+url/url-resolve.js href="5" path="0" n="100000": 134560.59938
+url/url-resolve.js href="5" path="1" n="100000": 142109.95389
+url/url-resolve.js href="5" path="2" n="100000": 159710.94950
+url/url-resolve.js href="5" path="3" n="100000": 162322.13633
+url/url-resolve.js href="5" path="4" n="100000": 145644.88839
+
+dgram/array-vs-concat.js len="64" num="100" chunks="1" type="concat" dur="5": 0.08935
